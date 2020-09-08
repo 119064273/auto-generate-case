@@ -1,0 +1,7 @@
+<config>
+    <timeout>2400</timeout>
+    <platform>europa,oberon,hyperion,luna,europa1u,arcus,warnado,warnado1n,warnadoex,warnadoexio,bolero,riptide</platform>
+    <node_pair>0</node_pair>
+    <sp_number>1</sp_number>
+    <cycle_count>1</cycle_count>
+</config>
